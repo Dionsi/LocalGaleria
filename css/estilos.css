@@ -1,0 +1,114 @@
+.fotologo{
+   max-width: 10%;
+   height: auto;
+}
+.contenedorlogo{
+    display: grid;
+    place-items: center;
+    background-color: rgba(226, 226, 7, 0.966)
+
+}
+nav ul{
+    display:flex;
+    background-color: rgb(41, 79, 248);
+    justify-content: center;
+}
+
+nav p{
+    background-color: rgb(116, 231, 231);
+    text-align: center;
+}
+nav ul li{
+    width: 200px;
+    height: auto;
+    background-color: rgb(41, 79, 248);
+    padding: 5px;
+    margin: 0px;
+}
+
+.textoboton{
+    color: white;
+    text-decoration: none;
+}
+
+.contenedor{
+    background-color: white;
+    display: flex
+}
+
+.fotolocal{
+    border: 10px solid  rgba(226, 226, 7, 0.966);
+}
+
+.contenedorparrafos{
+    margin-left: 50px ;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.contenedorlink{
+    display: flex;
+    gap: 60px;
+    margin-left: 120px;
+    margin-top: 10%;
+    font-size: 30px ;
+}
+
+h2{
+    font-size: 80px;
+}
+
+.textogaleria{
+    font-size: 40px;
+}
+
+.textofinal{
+    background-color: rgb(116, 231, 231);;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.textoquienes{
+    background-color: rgb(116, 231, 231);;
+    text-align: center;
+}
+
+.textobienvenida{
+    font-size: 30px;
+    color: black;
+}
+
+.textovision{
+    font-size: 30px;
+    color: black;
+}
+
+.textomision{
+    font-size: 30px;
+    color: black;
+}
+
+.fondo{
+    background-color: rgba(226, 226, 7, 0.966);
+    text-align: center;
+    color: red;
+    margin-top: 1%;
+}
+
+.textoproductos{
+    background-color: rgb(116, 231, 231);;
+    text-align: center;
+}
+
+.contenedor-productos{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+    font-size: 20px
+}
+
+.producto img{
+    width:250px
+}
